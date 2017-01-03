@@ -1,4 +1,4 @@
-# ![PocketMine-MP](http://i.imgur.com/d45VIgW.png) 
+# ![PocketMine-MP](http://i.imgur.com/cVSRnI3.png) 
 
 
 This program is free software: you can redistribute it and/or modify
